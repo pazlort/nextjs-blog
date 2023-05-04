@@ -22,35 +22,16 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hace unos años redescubrí la programación y conocí JavaScript.
-          Como apasionada que soy por estudiar empecé a hacer distintos cursos y a formarme para poder trabajar en lo que más me interesa y entretiene, que es programar.
+        <h2>Web Developer Front End JavaScript | React.js | Next.js</h2>
+        <p>Hace unos años redescubrí la programación y conocí JavaScript. <br/>
+        Como apasionada que soy por estudiar empecé a hacer distintos cursos y a 
+        formarme para poder trabajar en lo que más me interesa y entretiene, que es programar.
         </p>
-        <p>BACK END</p>
-
-          <ul>
-            <li>Node.js</li>
-            <li>Web Servers y Express.js</li>
-            <li>SQL</li>
-            <li>Diseño de Esquemas en Base de Datos relacionales</li>
-            <li>Postgres</li>
-            <li>ORM y Sequelize</li>
-            <li>Web Servers y Express.js</li>
-            <li>Express y Sequelize</li>
-            <li>Promises Avanzado</li>
-          </ul>
-
-        <p>FRONT-END</p>
-          <ul>
-            <li>HTML, SASS, CSS</li>
-            <li>jQuery y AJAX</li>
-            <li>Webpack</li>
-            <li>Passport.js</li>
-            <li>Testing React</li>
-            <li>React</li>
-            <li>React-Router</li>
-            <li>Context</li>
-            <li>Next.js</li>
-          </ul>
+        <p>
+        JavaScript | React.js | Node.js | Sequelize | Express | SQL | SQLite | Postgres | JQuery
+         | AJAX | HTML | CSS | SASS | Firebase | Context | Bootstrap | Testing (Mocha) | Git
+          | GitHub | CLI | npm
+        </p>
         <p>
           (This is a sample website - you'll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
